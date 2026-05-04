@@ -1,0 +1,16 @@
+{
+    "name": "李清照",
+    "name_pinyin": "Li Qingzhao",
+    "dynasty": "宋",
+    "dynasty_pinyin": "Song",
+    "birth": 1084,
+    "death": 1155,
+    "title": "千古第一才女",
+    "poems": [
+        {
+            "file": "slow_slow_tune.js",
+            "title": "声声慢",
+            "title_en": "Slow, Slow Tune"
+        }
+    ]
+}

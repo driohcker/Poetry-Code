@@ -1,0 +1,16 @@
+{
+    "name": "李白",
+    "name_pinyin": "Li Bai",
+    "dynasty": "唐",
+    "dynasty_pinyin": "Tang",
+    "birth": 701,
+    "death": 762,
+    "title": "诗仙",
+    "poems": [
+        {
+            "file": "quiet_night_thoughts.js",
+            "title": "静夜思",
+            "title_en": "Quiet Night Thoughts"
+        }
+    ]
+}

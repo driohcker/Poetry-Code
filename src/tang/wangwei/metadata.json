@@ -1,0 +1,16 @@
+{
+    "name": "王维",
+    "name_pinyin": "Wang Wei",
+    "dynasty": "唐",
+    "dynasty_pinyin": "Tang",
+    "birth": 701,
+    "death": 761,
+    "title": "诗佛",
+    "poems": [
+        {
+            "file": "longing_bean.go",
+            "title": "相思",
+            "title_en": "Longing Bean"
+        }
+    ]
+}
